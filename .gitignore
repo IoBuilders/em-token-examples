@@ -1,0 +1,11 @@
+# IntelliJ IDE
+.idea
+
+# Dependency directory
+node_modules
+
+# macOS
+.DS_Store
+
+# truffle
+build

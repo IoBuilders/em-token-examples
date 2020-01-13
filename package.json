@@ -1,0 +1,17 @@
+{
+  "name": "em-token-interaction-examples",
+  "version": "0.0.1",
+  "description": "Examples of smart contract interacting with the Emoney Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tech@io.builders",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "emoney-token": "^1.1.0",
+    "solc": "^0.5.16",
+    "truffle": "^5.1.8",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
