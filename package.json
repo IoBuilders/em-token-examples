@@ -1,7 +1,7 @@
 {
-  "name": "em-token-interaction-examples",
+  "name": "em-token-examples",
   "version": "0.0.1",
-  "description": "Examples of smart contract interacting with the Emoney Token",
+  "description": "Examples of smart contracts interacting with the Emoney Token",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
